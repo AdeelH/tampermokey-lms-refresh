@@ -1,8 +1,8 @@
 # tampermokey-lms-refresh
 
-A TamperMonkey/GreaseMonkey script to prevent the session from expiring on IBA LMS 
+A TamperMonkey/GreaseMonkey script to prevent the session from expiring on IBA LMS portal.
 
-Affected sites
+Affected sites:
 - http://lms2.iba.edu.pk
 - http://lms2.iba.edu.pk
 
