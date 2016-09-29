@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         IBA-LMS session refresher
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/AdeelH/
 // @version      0.1
 // @description  Prevent login timeout
 // @author       Adeel Hassan
