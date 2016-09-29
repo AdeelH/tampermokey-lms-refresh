@@ -22,8 +22,8 @@ function tamper() {
 		if (typeof(jQuery) === 'undefined')
 			return;
         jQuery.ajax({
-            url: "/direct/session/current.json?_=" + (new Date()).getTime(),
-            dataType: "json",
+            url: '/direct/session/current.json?_=' + (new Date()).getTime(),
+            dataType: 'json',
             success: function(data){
                 setTimeout(window.refreshSession, 1000 * 60 * 1);
             },
