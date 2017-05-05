@@ -3,7 +3,7 @@
 A TamperMonkey/GreaseMonkey script to prevent the session from expiring on IBA LMS portal.
 
 Affected sites:
-- http://lms2.iba.edu.pk
+- http://lms.iba.edu.pk
 - http://lms2.iba.edu.pk
 
 ## How it works
